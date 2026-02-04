@@ -1,0 +1,74 @@
+[
+  {
+    "player_name": "玩家",
+    "time_seconds": 11.43,
+    "moves": 38,
+    "difficulty": "EASY",
+    "game_mode": "NUMBERS",
+    "timestamp": 1770186667.3836653
+  },
+  {
+    "player_name": "玩家",
+    "time_seconds": 19.47,
+    "moves": 62,
+    "difficulty": "EASY",
+    "game_mode": "NUMBERS",
+    "timestamp": 1770188528.5534627
+  },
+  {
+    "player_name": "玩家",
+    "time_seconds": 19.54,
+    "moves": 38,
+    "difficulty": "EASY",
+    "game_mode": "NUMBERS",
+    "timestamp": 1770184378.7218194
+  },
+  {
+    "player_name": "玩家",
+    "time_seconds": 21.26,
+    "moves": 40,
+    "difficulty": "EASY",
+    "game_mode": "NUMBERS",
+    "timestamp": 1770183944.438537
+  },
+  {
+    "player_name": "玩家",
+    "time_seconds": 21.28,
+    "moves": 40,
+    "difficulty": "EASY",
+    "game_mode": "NUMBERS",
+    "timestamp": 1770183834.9106035
+  },
+  {
+    "player_name": "玩家",
+    "time_seconds": 23.06,
+    "moves": 39,
+    "difficulty": "EASY",
+    "game_mode": "NUMBERS",
+    "timestamp": 1770183984.7964568
+  },
+  {
+    "player_name": "玩家",
+    "time_seconds": 37.12,
+    "moves": 69,
+    "difficulty": "EASY",
+    "game_mode": "IMAGES",
+    "timestamp": 1770192327.6865885
+  },
+  {
+    "player_name": "玩家",
+    "time_seconds": 40.52,
+    "moves": 43,
+    "difficulty": "EASY",
+    "game_mode": "IMAGES",
+    "timestamp": 1770183901.706087
+  },
+  {
+    "player_name": "玩家",
+    "time_seconds": 47.84,
+    "moves": 129,
+    "difficulty": "EASY",
+    "game_mode": "NUMBERS",
+    "timestamp": 1770188072.945248
+  }
+]
